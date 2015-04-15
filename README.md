@@ -1,4 +1,4 @@
-# oasistemadigestivo
+# Objeto de Aprendizaje "Viaje al Sistema Digestivo"
 Objeto de Aprendizaje construido por Eduar Morales Osorio y Mario Fernando Reyes Ojeda como proyecto de la
 materia Gestión de Recursos Educativos Digitales.
 
