@@ -50,14 +50,14 @@ body {
 
 .meetpageflip .cabeceratitulo h2{
 	color: #000000;
-	font-family: fantasy;
+	font-family: Arial;
 	font-size: 30px;
 	padding-left: 24px;
 }
 
 .meetpageflip .cabeceratitulo-largetitle h2{
 	color: #000000;
-	font-family: fantasy;
+	font-family: "Arial";
 	font-size: 28px;
 	padding-left: 24px;	
 }
@@ -76,14 +76,14 @@ body {
 .meetpageflip #developercontent h4,
 .meetpageflip .dintext {
 	text-transform: uppercase;
-	font-family: DINNextLTPro-Heavy, Impact, Helvetica;
+	font-family: Arial, DINNextLTPro-Heavy, Impact, Helvetica;
 	font-weight: normal;
 	font-style: normal;
 }
 
 .meetpageflip .dintext h3 {
 	color: #ffffff;
-	font-family: "Trebuchet MS";
+	font-family: "Arial";
 	font-size: 16px;
 	text-transform: none;
 }
@@ -171,8 +171,9 @@ body {
 }
 
 #page6.meetpageflip {
-	/*color: rgba( 255, 170, 170, 0.5);*/
-	color: rgba( 77,77,77, 0.5 );
+	background: rgba(242, 242, 255, 1);
+	/*color: rgba( 255, 170, 170, 0.5);
+	/*color: rgba( 77,77,77, 0.5 );*/
 }
 
 .meetpageflip .header {
@@ -291,13 +292,11 @@ body {
 }
 #page13.meetpageflip,
 #page15.meetpageflip {
-	/*background: rgba(77,77,77,0.2);*/
-	/*background: rgba(0,183,240,0.3);*/
 	color: #ededed;
 }
 #page14.meetpageflip,
 #page16.meetpageflip {
-	background: none;
+	/*background: none;*/
 	color: #ededed;
 }
 #page17.meetpageflip {
@@ -340,7 +339,7 @@ body {
 }
 .meetpageflip #textdemo {
 	position: absolute;
-	top: 112px;
+	top: 77px;
 	left: 32px;
 	max-width: 386px;
 }
@@ -354,6 +353,11 @@ body {
 	/*font-size: 10px;*/
 	font-size: 15px;
 	margin: 0 0 12px 0;
+}
+.meetpageflip .textdemotres p {
+	/*font-size: 10px;*/
+	font-size: 15px;
+	margin: 0 0 7px 0;
 }
 .meetpageflip .leftimage {
 	float: left;
