@@ -169,6 +169,12 @@ body {
 #page3.meetpageflip {
 	background: #ededed;
 }
+
+#page6.meetpageflip {
+	/*color: rgba( 255, 170, 170, 0.5);*/
+	color: rgba( 77,77,77, 0.5 );
+}
+
 .meetpageflip .header {
 	position: absolute;
 	top: 38px;
